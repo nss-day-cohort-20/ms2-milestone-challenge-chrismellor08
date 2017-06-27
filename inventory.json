@@ -1,0 +1,32 @@
+{
+  "cars": [
+    {
+      "make": "Nissan",
+      "model": "Rogue",
+      "year": "2006",
+      "price": "8999",
+      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+    },
+    {
+    	"make": "Mazda",
+    	"model": "3",
+    	"year": "2008",
+    	"price": "2500",
+    	"description": "This car has. acheck engine light on because of an 02 sensor, and the paint colors look like they don't quite match in some places!"
+    },
+    {
+    	"make": "Ford",
+    	"model": "Freestyle",
+    	"year": "2008",
+    	"price": "4500",
+    	"description": "This car has been completely destroyed by little children and pets. comes with free old french fries"
+    },
+    {
+      "make": "Jeep",
+      "model": "cj7",
+      "year": "1976",
+      "price": "4500",
+      "description": "There is literally no suspension on this car, and driving over tiny pebles feels like you're launching over a speedbump"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+.prodCard {
+	border: 1px solid black;
+	max-width: 27%;
+	margin-left: 2%;
+}
+
+.focusBorder {
+	border: 3px solid black;
+	background-color: lightcoral;
+}
