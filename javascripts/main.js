@@ -13,7 +13,9 @@ function carsToDOM(_car_inventory){
 		<h2>${currentCar.price}</h2>
 		</div>`
 		if ((cars.length %3) === 0 ){
-			document.getElementById("card").innerHTML +=`<div class="row">`
+			document.getElementById("card").innerHTML +=`
+			</div>
+			<div class="row">`
 		}
 	})
 	listeners();
